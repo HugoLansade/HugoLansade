@@ -4,7 +4,7 @@
 
 - I like learning new technologies 
 - I'm autonomous but love working in a team
-- I love hiking and diving, it changes a bit with programming
+- I love hiking and diving
 
 ## Here you will find links to my main projects :
 
