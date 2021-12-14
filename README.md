@@ -1,14 +1,14 @@
 ### Welcome to my GitHub, I'm Hugo 👋 
 
-## I'm a Developer looking for improving my skills
+## I'm a Full-stack Developer (looking for a job currently)
 
 - I like learning new technologies 
-- I'm autonomous but love to work in a team
+- I'm autonomous but love working in a team
 - I love hiking and diving, it changes a bit with programming
 
 ## Here you will find links to my main projects :
 
-- [~Shai Hulud~](https://hugolansade.github.io/Shai-Hulud/) | A travel in Dune universe
+- [Shai Hulud](https://hugolansade.github.io/Shai-Hulud/) | A travel in Dune universe
 - [°Table Ronde°](https://table-ronde.herokuapp.com/auth/signin) | A skill sharing web platform
 - WalKMyLine | A tracker of your journey and those of your friends  --- Not available deployed yet because of Mapbox but working! Please try it by cloning my repo :)
 
