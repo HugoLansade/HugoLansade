@@ -10,6 +10,7 @@
 
 - [Shai Hulud](https://hugolansade.github.io/Shai-Hulud/) | A travel in Dune universe
 - [Piano App](https://hugolansade.github.io/PianoApp/) | A mobile app to learn piano anywhere
+- [FDB Shop](https://hugolansade.github.io/FDB_Shop/) | A mobile app for the roomates to not shop twice the same ingredients
 - [°Table Ronde°](https://table-ronde.herokuapp.com/auth/signin) | A skill sharing web platform
 - WalKMyLine | A tracker of your journey and those of your friends  --- Not available deployed yet because of Mapbox but working! Please try it by cloning my repo :)
 
