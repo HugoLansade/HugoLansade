@@ -1,6 +1,6 @@
 ### Welcome to my GitHub, I'm Hugo 👋 
 
-## I'm a Full-stack Developer (looking for a job currently)
+## I'm a Full-stack Developer
 
 - I like learning new technologies 
 - I'm autonomous but love working in a team
